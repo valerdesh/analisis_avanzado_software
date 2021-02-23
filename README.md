@@ -1,6 +1,4 @@
-# analisis_avanzado_software
-Repositorio para la matería Analisis Avanzado de software impartida por Jaime Leonardo Enriquez Alvarez 
-# Analisis_Avanzado_de_Software :computer:
+# Analisis avanzado de software :computer:
 
 ![Logo](img/Logotec.jpg)
 ![LogoS](img/LogoSistemas.png)
