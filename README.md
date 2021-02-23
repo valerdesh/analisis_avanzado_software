@@ -21,7 +21,7 @@
 # :notebook: Unidad 1
 
 **:clipboard: Carpeta Blog**
-* [C0.1 Integrar equipos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C0.1%20Integrar%20equipos_GuillermoSoriaMarquez.md)
+* [C0.1 Integrar equipos](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C0.1_IntegrarEquiposDeTrabajo_AlejandroValerdeSanchez.md)
   
 **:paperclip: Carpeta Docs**
 
