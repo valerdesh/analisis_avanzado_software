@@ -27,20 +27,3 @@ Repositorio para la matería Analisis Avanzado de software impartida por Jaime L
   
 **:paperclip: Carpeta Docs**
 
-
-# :closed_book: Unidad 2
-
-**:clipboard: Carpeta Blog**
-**:paperclip: Carpeta Docs**
-
-
-# :orange_book: Unidad 3
-
-**:clipboard: Carpeta Blog**
-**:paperclip: Carpeta Docs**
-
-
-# :blue_book: Unidad 4
-
-**:clipboard: Carpeta Blog**
-**:paperclip: Carpeta Docs**
