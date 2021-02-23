@@ -1,6 +1,6 @@
 # Analisis avanzado de software :computer:
 
-![Logo](images/Logotec.jpg)
+![Logo](images/itt.jpg)
 ![Logo](images/tic.png)
 
 # :page_facing_up: Información #
