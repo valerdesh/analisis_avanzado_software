@@ -7,16 +7,16 @@
 
 **Nombre Del alumno:** Valerde Sanchez Alejandro
 
-**Numero de control:** 17212935.
+**Número de control:** 17212935.
 
 **Carrera:** Ingeniería en Tecnologias de la información y comunicaciones.
 **Nombre Del equipo:** Ethereal Arts
 
-**Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
+**Nombre del maestro:** Mtro Jaime Leonardo Enriquez Alvarez.
 
-**Materia:** Analisis Avanzado de Software
+**Materia:** Análisis avanzado de software
 
-# :open_file_folder: Indice #
+# :open_file_folder: Índice #
 
 # :notebook: Unidad 1
 
