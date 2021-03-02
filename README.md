@@ -22,7 +22,7 @@
 
 **:clipboard: Carpeta Blog**
 * [C0.1 Integrar equipos de trabajo](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C0.1_IntegrarEquiposDeTrabajo_AlejandroValerdeSanchez.md)
-* * [C0.2 Tipo de sistema de información](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C0.2_TipoDeSistemaInformacion_ValerdeSanchezAlejandro.md)
+*  [C0.2 Tipo de sistema de información](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C0.2_TipoDeSistemaInformacion_ValerdeSanchezAlejandro.md)
 
   
 **:paperclip: Carpeta Docs**
