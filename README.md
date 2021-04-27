@@ -20,12 +20,12 @@
 
 # :notebook: Unidad 1
 
-**:clipboard: Trabajo individual**
+**:file_folder: Trabajo individual**
 * [C0.1 Integrar equipos de trabajo](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C0.1_IntegrarEquiposDeTrabajo_AlejandroValerdeSanchez.md)
 *  [C0.2 Tipo de sistema de información](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C0.2_TipoDeSistemaInformacion_ValerdeSanchezAlejandro.md)
 *  [C0.3 Diagrama de flujo del proceso](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C0.3_DiagramaDeFlujoSobreProcesoDeDesarrollo_ValerdeSanchezAlejandro.md)
 
-**:clipboard: Trabajo en equipo**
+**:file_folder: Trabajo en equipo**
 * [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/A0.1_Recopilacion_de_datos_de_por_medio_de_la_entrevista.md)
 
 **:clipboard: Trabajo individual PDF**
@@ -36,9 +36,9 @@
 **:clipboard: Trabajo en equipo PDF**
 * [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/valerdesh/analisis_avanzado_software/blob/main/pdf/A0.1_Recopilacion_de_datos_de_por_medio_de_la_entrevista_ValerdeSanchezAlejandro.pdf)
 
-# :notebook: Unidad 2
+# :blue_book: Unidad 2
 
-**:clipboard: Trabajo individual**
+**:file_folder:Trabajo individual**
 * [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C1.1_Definicio%CC%81nDeObjetivoGeneralYLosEspecificosAsiComoElModeladoDelNegocio_ValerdeSanchezAlejandro.md)
 
 * [C1.2 Elaboracion del acta constitutiva del proyecto.](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C1.2_Acta_Constitutiva_del_proyecto_Valerde_Sanchez_Alejandro.md)
@@ -49,7 +49,7 @@
 
 * [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/C1.5_Modelado_de_requisitos_a_trav%C3%A9s_de_diagramas_estructurados_ValerdeSanchezAlejandro.md)
   
-**:clipboard: Trabajo en equipo**
+**:file_folder: Trabajo en equipo**
 
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/A1.0%20Consolidacion%20del%20acta%20constitutiva.md)
 
