@@ -16,7 +16,6 @@
 
 **Materia:** Análisis avanzado de software
 
-# :open_file_folder: Índice #
 
 # :notebook: Unidad 1
 
