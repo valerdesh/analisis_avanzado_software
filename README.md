@@ -52,6 +52,8 @@
 
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/A1.0%20Consolidacion%20del%20acta%20constitutiva.md)
 
+* [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/valerdesh/analisis_avanzado_software/blob/main/blogs/A1.1_UML_Requirements_Modeling.md)
+
 **:clipboard: Trabajo individual PDF**
 
 * [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/valerdesh/analisis_avanzado_software/blob/main/pdf/C1.1_Definicio%CC%81nDeObjetivoGeneralYLosEspecificosAsiComoElModeladoDelNegocio_ValerdeSanchezAlejandro.pdf)
@@ -68,3 +70,5 @@
 **:clipboard: Trabajo en equipo PDF**
 
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/valerdesh/analisis_avanzado_software/blob/main/pdf/A1.0%20Consolidacion%20del%20acta%20constitutiva.pdf)
+
+* [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/valerdesh/analisis_avanzado_software/blob/main/pdf/A1.1_UML_Requirements_Modeling-ValerdeSanchezAlejandro.pdf)
